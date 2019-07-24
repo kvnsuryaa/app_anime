@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anime</string>
+    <string name="tambah_anime">Tambah Anime</string>
+    <string name="judul_anime">Judul Anime</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="rating">Rating</string>
+    <string name="tambah">Tambah</string>
+</resources>
